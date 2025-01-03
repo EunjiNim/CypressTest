@@ -1,0 +1,20 @@
+# Cypress test videos
+cypress/videos/
+
+# Cypress test screenshots
+cypress/screenshots/
+
+# Cypress report files (if you use custom reporters like Allure)
+cypress/reports/
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables (optional, if you have a .env file for sensitive data)
+.env
+
+# Logs
+*.log
+
+# MacOS Finder files
+.DS_Store
